@@ -20,8 +20,8 @@ Decision Tree
 ### 1 Data Understanding
 load training and testing datasets. (done)
 Identify features and target variables. (done)
-Check missing values.
-Analyze class distribution.
+Check missing values. (done)
+Analyze class distribution. (done)
 
 ### 2 Preprocessing
 Check/handle missing data.
